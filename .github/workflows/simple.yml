@@ -34,3 +34,4 @@ jobs:
           pwd
           cd "$GITHUB_WORKSPACE"
           cat README.md
+          pwd
