@@ -18,3 +18,7 @@ possible](https://docs.github.com/en/actions/concepts/runners/self-hosted-runner
 See the [full
 explanation](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#choosing-github-hosted-runners)
 for details.
+
+In the folder `$GITHUB_WORKSPACE` is the entire code as checked out by the
+action. The path indicates that it uses the format
+`/home/runner/work/$reponame/$reponame`.
