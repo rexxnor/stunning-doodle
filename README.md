@@ -13,11 +13,8 @@ Exercises to get used to GitHub Actions with some notes in the `README.md`.
 
 There are different sets of runners available for use. Public repositories can
 use the GitHub hosted ones for free, while private repositories have a quota
-for runners. [Self-hosting a runner is also possible](Selfhosted-Runner). See
-the [full explanation](Runners) for details.
-
-
-# References
-
-[Selfhosted-Runner]: https://docs.github.com/en/actions/concepts/runners/self-hosted-runners
-[Runners]: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#choosing-github-hosted-runners
+for runners. [Self-hosting a runner is also
+possible](https://docs.github.com/en/actions/concepts/runners/self-hosted-runners).
+See the [full
+explanation](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#choosing-github-hosted-runners)
+for details.
