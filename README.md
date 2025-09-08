@@ -22,3 +22,11 @@ for details.
 In the folder `$GITHUB_WORKSPACE` is the entire code as checked out by the
 action. The path indicates that it uses the format
 `/home/runner/work/$reponame/$reponame`.
+
+As I found out through tips of friends the entire GitHub workflow definitions
+are compatible with Forgejo and Gitea workflows! There are some differences overall but they are neatly documented.
+
+https://forgejo.org/docs/latest/user/actions/github-actions/
+https://docs.gitea.com/usage/actions/comparison
+
+Both differ a lot from GitLab CI/CD a lot though.
